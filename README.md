@@ -1,8 +1,8 @@
 # text_clustering
  
 This text clustering pipeline can be used to import the 'input.xlsx' data.
-The test data has a row named 'corpus' which contains book titles.
-With the usage of TF-IDF Vectorizer and kMeans this code can perform basic text clustering to determine theme keywords from all the book titles.
+The test data has a column named 'corpus' which contains book titles.
+With the usage of TF-IDF Vectorizer and kMeans this code can perform basic text clustering to determine representative keywords.
 
 This script was developed as a part of an coding challenge.
 
